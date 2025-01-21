@@ -1,5 +1,5 @@
 # bombGame
-you can play the game in [![Game Screenshot](g)](https://disarm.ccbp.tech)
+you can play the game in [![Game Screenshot](https://raw.githubusercontent.com/tejanakka/bombGame/d3a0e492659bc1403012040e1eb4c47e0c5e7d3b/WhatsApp%20Image%202025-01-21%20at%208.00.15%20PM.jpeg)](https://disarm.ccbp.tech)
 
 
 Game Description: Mission Critical: Disarm the Bomb
