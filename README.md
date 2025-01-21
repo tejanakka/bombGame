@@ -1,5 +1,5 @@
 # bombGame
-you can play the game in [disarm.ccbp.tech]
+you can play the game in [![Play the Game](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://disarm.ccbp.tech)
 
 
 Game Description: Mission Critical: Disarm the Bomb
