@@ -1,5 +1,5 @@
 # bombGame
-you can play the game in [![Game Screenshot](C:\Users\user\Downloads\WhatsApp Image 2025-01-21 at 8.00.15 PM.jpeg)](https://disarm.ccbp.tech)
+you can play the game in [![Game Screenshot](g)](https://disarm.ccbp.tech)
 
 
 Game Description: Mission Critical: Disarm the Bomb
